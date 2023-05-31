@@ -1,4 +1,4 @@
-(the repos are not yet public)
+(not all the repos are public yet)
 
 # Stocra
 - [genesis](https://github.com/vokracko/stocra-genesis) - library to interact with nodes
